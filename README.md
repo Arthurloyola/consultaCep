@@ -1,16 +1,11 @@
-# consultacep
+Aplicativo Flutter que realiza uma consulta na api ViaCep e retorna o endereço referente ao Cep informado.
 
-A new Flutter project.
+Componentes:
+12217021 - Arthur Loyola
+222100003 - Daniel Alves
+223100003 - Renan Costa Bitencourt Da Vitoria
 
-## Getting Started
+Captura:
+![image](https://github.com/Arthurloyola/consultaCep/assets/79482628/7522ce81-25c1-4563-a2e8-0f4ac995e627)
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
